@@ -1,0 +1,31 @@
+ul#idx-meeting-list {
+    border-radius: 0px;
+}
+
+.lnf {
+    background-color: #191919;
+    color: white;
+}
+
+.heading-padding {
+    padding-top: 7px;
+    padding-bottom: 2px;
+    padding-left: 9px;
+}
+
+.padding-top-5px {
+    padding-top: 5px;
+}
+
+.panel-style {
+    height: calc(100vh - 49px);
+    overflow-y: auto;
+}
+
+.panel-style {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.panel-style::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}

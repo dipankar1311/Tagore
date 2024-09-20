@@ -1,0 +1,2 @@
+// NOT safe! just a PoC!
+BEARER_TOKEN = "OTRkZTZkYmItMTdiNy00YTdlLThmZjQtZmVlM2M4MzVjZjg2NDhlNzk5MTAtNGQx_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f"
