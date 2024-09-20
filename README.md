@@ -4,11 +4,11 @@ The actual goal of this project is to optimise meeting/call transcript by taking
 
 Phase I
 In this phase of implementation we have tried to cover below
-1. Instead of live meeting/call, we have considerd recorded meeting/call (As we dont have access to internal code base of speech to text module of vociea)
+1. Instead of live meeting/call, we have considerd recorded meeting/call
 2. Considered screen shared content as the only feed to speech to text engine
 
 Deviation from actual flow:
-1. Instead of Voicea speech to text engine we have used google speech to text engine
+1. We have used google speech to text engine
 2. Used google vision API for OCR
 
 
